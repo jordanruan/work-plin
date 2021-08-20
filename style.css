@@ -1,5 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* ---- config gerais ----  /*/
+
+.container {
+    max-width: 1240px;
+    margin: 40px auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-logo {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.site-navigation {
+    display: flex;
+}
+
+.site-navigation .nav-links {
+    margin: 10px;
+    text-decoration: none;
+    list-style-type: none;
 }
