@@ -11,11 +11,22 @@ body {
 }
 
 
-/* ---- config gerais ----  /*/
+/* ---- global ----  /*/
 
 .container {
     max-width: 1240px;
     margin: 40px auto;
+}
+
+
+/* ---- navbar ----  /*/
+
+a:visited {
+    color: #111;
+}
+
+a:hover {
+    color: #6C63FF;
 }
 
 .navbar {
@@ -25,8 +36,27 @@ body {
 }
 
 .nav-logo {
+    font-size: 1.5rem;
+    list-style-type: none;
+}
+
+.nav-logo a {
     text-decoration: none;
     list-style-type: none;
+    color: #111;
+    font-weight: bold;
+}
+
+.nav-logo span {
+    text-decoration: none;
+    list-style-type: none;
+    color: #6C63FF;
+    font-weight: bold;
+}
+
+.nav-links a {
+    text-decoration: none;
+    font-size: 300;
 }
 
 .site-navigation {
