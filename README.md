@@ -1,7 +1,16 @@
 <h1 align="center">Work-Plin 💼</h1>
 <h3 align="center">Landing page trabalho colaborativo ou Co-work.</h3>
+<<<<<<< HEAD
 
 <a href="https://jordanruan.github.io/work-plin/" style="center" >Finalizado 🚀</a>
+=======
+
+<a href="https://jordanruan.github.io/work-plin/" >Finalizado 🚀</a>
+  
+
+
+
+>>>>>>> 01b2a38689a16657768657dc1e2f96e4dca43586
 
 ![banner](https://github.com/jordanruan/work-plin/blob/main/img/modelo-desktop.png?raw=true)
 
