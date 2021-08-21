@@ -8,6 +8,7 @@
 html,
 body {
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 
 
@@ -189,11 +190,17 @@ ul li {
     margin: 0px;
     padding: 0px;
     list-style: none;
+    text-align: center;
 }
 
 .logo-footer {
     color: #111111;
-    font-size: 3rem;
+    font-size: 4rem;
     text-decoration: none;
     font-weight: bold;
+}
+
+.nav-footer ul li a {
+    font-size: 2rem;
+    text-align: center;
 }

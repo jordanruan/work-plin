@@ -1,27 +1,47 @@
-/* ---- Responsive ----  /*/
-
-
-/* Landscape phone to portrait tablet */
-
-@media (max-width: 767px) {
-    nav {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+    /* ---- Responsive ----  /*/
+    
+    @media (max-width: 767px) {
+        nav {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .site-navigation {
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+        }
+        .img {
+            order: 2;
+        }
+        .img1 {
+            width: 100%;
+            margin-bottom: 40px;
+        }
+        .content {
+            display: flex;
+            flex-direction: column;
+        }
+        .texto {
+            display: flex;
+            order: 1;
+        }
+        .lorem {
+            display: none;
+        }
+        input {
+            max-width: 300px;
+        }
+        .footer-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .logo-footer {
+            order: 1;
+            margin-bottom: 80px;
+        }
+        .nav-footer {
+            order: 2;
+        }
     }
-    .site-navigation {
-        flex-direction: column;
-        text-align: center;
-        align-items: center;
-    }
-}
-
-
-/* Portrait tablet to landscape and desktop */
-
-@media (min-width: 768px) and (max-width: 979px) {}
-
-
-/* Large desktop */
-
-@media (min-width: 1200px) {}
