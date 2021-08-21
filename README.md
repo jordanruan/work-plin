@@ -1,4 +1,4 @@
-# Work-Plin 🌐
+# Work-Plin 💼
 
 ### Landing page trabalho colaborativo ou Co-work.
 
