@@ -1,0 +1,27 @@
+/* ---- Responsive ----  /*/
+
+
+/* Landscape phone to portrait tablet */
+
+@media (max-width: 767px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .site-navigation {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+
+/* Portrait tablet to landscape and desktop */
+
+@media (min-width: 768px) and (max-width: 979px) {}
+
+
+/* Large desktop */
+
+@media (min-width: 1200px) {}
