@@ -5,7 +5,6 @@
 <a href="https://jordanruan.github.io/work-plin/">Finalizado 🚀</a>
 
 ![banner](https://github.com/jordanruan/work-plin/blob/main/img/modelo-desktop.png?raw=true)
-![banner](https://github.com/jordanruan/work-plin/blob/main/img/modelo-mobile.png?raw=true)
 
 ---
 
