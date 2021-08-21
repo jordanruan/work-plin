@@ -135,6 +135,7 @@ span {
     font-size: 20px;
     box-shadow: 5px 4px 10px 0px #c4c4c4;
     margin-bottom: 22px;
+    outline: 0;
 }
 
 ::placeholder {
