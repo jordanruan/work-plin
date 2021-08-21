@@ -1,8 +1,9 @@
 <h1 align="center">Work-Plin 💼</h1>
-<h3 align="center">Landing page trabalho colaborativo ou Co-work.
+<h3 align="center">Landing page trabalho colaborativo ou Co-work.<br>
 <a href="https://jordanruan.github.io/work-plin/">Finalizado 🚀</a>
-
+  
 </h3>
+
 
 
 
